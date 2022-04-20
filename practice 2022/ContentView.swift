@@ -19,7 +19,7 @@ struct ContentView: View {
       VStack {
         Spacer()
         Group {
-          Text("Welcome!")
+          Text("Go Away!")
 //            .font(.system(size: 40, weight: .semibold, design: .default))
             //.font(<#Font?#>)
             .foregroundColor(.red)
